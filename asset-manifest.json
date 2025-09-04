@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vocabulary-quiz/static/css/main.fbb34deb.css",
+    "main.js": "/vocabulary-quiz/static/js/main.dc3289bc.js",
+    "static/js/453.c9f89132.chunk.js": "/vocabulary-quiz/static/js/453.c9f89132.chunk.js",
+    "index.html": "/vocabulary-quiz/index.html",
+    "main.fbb34deb.css.map": "/vocabulary-quiz/static/css/main.fbb34deb.css.map",
+    "main.dc3289bc.js.map": "/vocabulary-quiz/static/js/main.dc3289bc.js.map",
+    "453.c9f89132.chunk.js.map": "/vocabulary-quiz/static/js/453.c9f89132.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbb34deb.css",
+    "static/js/main.dc3289bc.js"
+  ]
+}
